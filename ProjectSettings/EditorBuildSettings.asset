@@ -50,10 +50,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-AreaTargetCapture.unity
     guid: 8cc2a4f7dab81424bb840719430ee097
+  - enabled: 1
+    path: Assets/HW04_2217001_KMJ/Scene1.unity
+    guid: a3c7704dd7756054fb831d0bf7c7d556
+  - enabled: 1
+    path: Assets/HW04_2217001_KMJ/Scene2.unity
+    guid: b66306be1498ae14bb5b250bee06bf48
   - enabled: 0
     path: Assets/SamplesResources/Scenes/3-Barcodes.unity
     guid: a3102d51f16474e8986f86570e9bed1f
-  - enabled: 1
+  - enabled: 0
     path: Assets/ARTest/New Scene.unity
     guid: 50f50aea7b9435c4cb864e5da2f61979
   m_configObjects:
